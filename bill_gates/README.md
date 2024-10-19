@@ -16,4 +16,4 @@ Bill Gates has 100000000 dollars! We are trying to spend this money by purchasin
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/emrecimen20/Bill_Gates_Money.git
